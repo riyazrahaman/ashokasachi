@@ -112,7 +112,7 @@ export const speakers = [
   // ✅ SPEAKER 2 — SWAPNA
   {
     id: "swapna",
-    name: "Swapna",
+    name: "Ms. Swapna",
     role: "Journalist & Media Leader",
     org: "SumanTV",
     category: "Media Leader",
@@ -138,7 +138,7 @@ export const speakers = [
   },
 {
   id: "visha-ferrer",
-  name: "Visha Ferrer",
+  name: "Vishala Ferrer",
   role: "Director – Women Empowerment Sector",
   org: "Rural Development Trust (RDT)",
   category: "Social Impact Leader",
